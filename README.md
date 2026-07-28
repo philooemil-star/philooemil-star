@@ -1,56 +1,39 @@
-# Hi there, I'm [Your Name] 👋 📱
+# Hi there, I'm Philopatir Emil 👋 📱
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+I'm a passionate **iOS Mobile Application Developer** based in Egypt 🇪🇬
 
----
+**About me**
 
-### 👨‍💻 About Me
-- 🚀 **iOS Developer** passionate about crafting sleek, intuitive, and performant native mobile experiences.
-- 🛠️ Currently building apps with **SwiftUI**, **UIKit**, and **Combine/Concurrency**.
-- 🎓 Studying Computer & Communication Engineering.
-- 💡 Interested in **App Architecture (MVVM, Clean Architecture)**, **CI/CD for iOS**, and **UI/UX Design**.
+- 🎓 Communication & Computer Engineering Student at Benha University
+- 📱 Specialized in native iOS development using **Swift**, **SwiftUI**, and **UIKit**
+- 🛠️ Experienced in mobile app architecture (**MVVM**), **CoreData**, and **REST APIs**
+- 💬 Ask me about Swift development, Xcode tooling, or mobile project architecture
 
----
+<code><img height="20" alt="swift" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="20" alt="xcode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
+<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### 🛠️ Tech Stack & Tools
+| <a href="https://github.com/YOUR_GITHUB_USERNAME"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Philopatir's github stats" /></a> | <a href="https://github.com/YOUR_GITHUB_USERNAME"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=buefy&hide_border=true&hide=html,css" /></a> |
+| ------------- | ------------- |
 
-#### **Core Mobile Development**
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=testflight&logoColor=white)
+#### Featured Repositories
 
-#### **Architecture & Tools**
-![MVVM](https://img.shields.io/badge/Architecture-MVVM%20%7C%20Clean-orange?style=for-the-badge)
-![CocoaPods](https://img.shields.io/badge/CocoaPods-EE2000?style=for-the-badge&logo=cocoapods&logoColor=white)
-![SPM](https://img.shields.io/badge/Swift_Package_Manager-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<a href="https://github.com/YOUR_GITHUB_USERNAME/XO-Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=XO-Game&theme=buefy" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_OTHER_REPO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_OTHER_REPO&theme=buefy" />
+</a>
 
----
+<br />
+<br />
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Used | Repo Link |
-| :--- | :--- | :--- | :---: |
-| **📱 App Title 1** | Brief 1-sentence description of what the iOS app does. | `SwiftUI` `Combine` `CoreData` | [View Code](https://github.com/YOUR_USERNAME/PROJECT_1) |
-| **🎮 App Title 2** | Description of your app or personal project. | `UIKit` `MVVM` `REST API` | [View Code](https://github.com/YOUR_USERNAME/PROJECT_2) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=nord&hide=html,css" alt="Top Languages" width="48%" />
-</p>
-
----
-
+<a href="https://linkedin.com/in/philopatir-emil-7b5b77305">
+  <img align="right" alt="Philopatir Emil | LinkedIn" width="21px" src="https://raw.githubusercontent.com/icoene/icoene/main/svg/linkedin.svg" />
+</a>
+<a href="mailto:philooemil@gmail.com">
+  <img align="right" alt="Philopatir Emil | Email" width="20px" src="https://raw.githubusercontent.com/icoene/icoene/main/svg/gmail.svg" />
+</a>
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
