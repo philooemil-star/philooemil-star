@@ -68,7 +68,6 @@
     <img alt="Swift Package Manager" src="https://img.shields.io/badge/SPM-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white">
   </p>
 </details>
-
 <details open> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
@@ -79,10 +78,13 @@
     </a>
   </p>
 
-  <h3>💻 GitHub Overview</h3>
+  <h3>💻 GitHub Profile Stats</h3>
   <p>
-    <img alt="Total Commits" src="https://img.shields.io/github/commit-activity/m/philooemil-star/XO-Game?style=for-the-badge&label=Total%20Commits&color=F85D7F&logo=git&logoColor=white" />
-    &nbsp;
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/philooemil-star/XO-Game?style=for-the-badge&label=Primary%20Language&color=FA7343&logo=swift&logoColor=white" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Philopatir's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=philooemil-star&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Philopatir's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=philooemil-star&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=html,css" height="192px"/>
+    </a>
   </p>
 </details>
