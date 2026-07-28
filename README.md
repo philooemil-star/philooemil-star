@@ -38,7 +38,11 @@
 
   <p align="left">
     <a href="https://github.com/philooemil-star/XO-Game">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=philooemil-star&repo=XO-Game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="XO-Game" />
+      <img width="278" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=philooemil-star&repo=XO-Game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="XO-Game" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/philooemil-star/Xylophone">
+      <img width="278" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=philooemil-star&repo=Xylophone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Xylophone" />
     </a>
   </p>
 
@@ -46,7 +50,6 @@
     <img alt="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </details>
-
 <details open> 
   <summary><h2>🛠️ Technical Stack & Tools</h2></summary>
 
